@@ -1,2 +1,2 @@
-# Surpix
-Repository for Surpix and huge amounts of tomfoolery.
+# Codes
+Repository for my codes and huge amounts of tomfoolery.
