@@ -28,7 +28,7 @@
     --interactive-normal: rgb(139, 148, 158);
     --interactive-hover: #dcddde;
     --interactive-active: #fff;
-    --interactive-muted: rgb(76, 82, 88);
+    --interactive-muted: rgb(102, 245, 6);
     --background-modifier-hover: rgba(33, 38, 45, 0.26);
     --background-modifier-active: rgba(33, 38, 45, 0.44);
     --background-modifier-selected: rgba(33, 38, 45, 0.52);
@@ -44,7 +44,7 @@
     --deprecated-quickswitcher-input-placeholder: hsla(0, 0%, 100%, 0.3);
     --deprecated-text-input-bg: var(--channeltextarea-background);
     --deprecated-text-input-border: var(--border-color);
-    --deprecated-text-input-border-hover: #040405;
+    --deprecated-text-input-border-hover: #292929;
     --deprecated-text-input-border-disabled: #202225;
     --deprecated-text-input-prefix: #dcddde;
     --background-accent-1: rgb(15, 15, 15, 0.1);
@@ -55,7 +55,7 @@
     --blurple-border: 1px solid rgb(31, 47, 71);
     --border-radius: 5px;
     --divide-color: var(--brand-experiment);
-    --brand-experiment: rgb(4, 20, 196);
+    --brand-experiment: rgb(255, 0, 128);
     --deprecated-quickswitcher-input-background: var(--channeltextarea-background)
 }
 
