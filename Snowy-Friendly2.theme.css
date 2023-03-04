@@ -1,0 +1,60 @@
+/**
+    * @name Snowy-Friendly Theme
+    * @version 6.9
+    * @description for my extra chromosome eyes :D
+    * @author Snowy
+    * @website https://github.com/Snowy597
+**/
+
+:root {
+    /* --------- BASE THEME --------- */
+    --blurple-replace: rgb(255, 0, 242);
+    --background-primary: rgb(9, 12, 16);
+    --background-secondary: rgb(13, 13, 26);
+    --background-floating: rgb(13, 13, 26);
+    --background-secondary-alt: var(--background-floating);
+    --background-tertiary: rgb(13, 13, 26);
+    --background-accent: rgb(17, 29, 46);
+    --userarea-background: var(--background-tertiary);
+    --header-primary: rgb(3, 129, 231);
+    --header-secondary: rgb(137, 191, 253);
+    --elevation-low: 0 1px 0 rgba(40, 40, 50, 0.2), 0 1.5px 0 rgba(60, 60, 70, 0.05), 0 2px 0 rgba(40, 40, 50, 0.05);
+    --elevation-high: 0 8px 16px rgba(0, 0, 0, 0.24);
+    --channels-default: rgb(139, 148, 158);
+    --channeltextarea-background: rgb(7, 10, 16);
+    --voice-color: var(--brand-experiment);
+    --guild-header-text-shadow: 0 1px 1px rgba(0, 0, 0, 0.4);
+    --activity-card-background: #0f0f0f;
+    --interactive-normal: rgb(139, 148, 158);
+    --interactive-hover: #dcddde;
+    --interactive-active: #fff;
+    --interactive-muted: rgb(102, 245, 6);
+    --background-modifier-hover: rgba(33, 38, 45, 0.26);
+    --background-modifier-active: rgba(33, 38, 45, 0.44);
+    --background-modifier-selected: rgba(33, 38, 45, 0.52);
+    --background-modifier-accent: rgb(33, 38, 45);
+    --text-link: rgb(11, 213, 240);
+    --text-normal: rgb(255, 7, 172);
+    --text-muted: rgb(139, 148, 158);
+    --deprecated-panel-background: #2a2f29;
+    --deprecated-card-bg: var(--background-secondary);
+    --deprecated-card-editable-bg: var(--background-secondary);
+    --deprecated-store-bg: #36393f;
+    --deprecated-quickswitcher-input-background: #72767d;
+    --deprecated-quickswitcher-input-placeholder: hsla(0, 0%, 100%, 0.3);
+    --deprecated-text-input-bg: var(--channeltextarea-background);
+    --deprecated-text-input-border: var(--border-color);
+    --deprecated-text-input-border-hover: #292929;
+    --deprecated-text-input-border-disabled: #202225;
+    --deprecated-text-input-prefix: #dcddde;
+    --background-accent-1: rgb(15, 15, 15, 0.1);
+    --background-accent-3: rgb(15, 15, 15, 0.3);
+    --background-floating-2: rgba(0, 0, 0, 0.2);
+    --border: 1px solid rgb(48, 54, 61);
+    --border-color: rgb(48, 54, 61);
+    --blurple-border: 1px solid rgb(31, 47, 71);
+    --border-radius: 5px;
+    --divide-color: var(--brand-experiment);
+    --brand-experiment: rgb(255, 0, 128);
+    --deprecated-quickswitcher-input-background: var(--channeltextarea-background)
+}
