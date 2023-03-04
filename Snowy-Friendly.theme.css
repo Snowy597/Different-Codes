@@ -59,48 +59,6 @@
     --deprecated-quickswitcher-input-background: var(--channeltextarea-background)
 }
 
-.theme-light {
-    --background-secondary: rgb(13, 17, 23);
-    --header-primary: rgb(240, 246, 252);
-    --header-secondary: rgb(139, 148, 158);
-    --background-primary: rgb(22, 27, 34);
-    --text-normal: rgb(201, 209, 217);
-    --background-floating: rgb(22, 27, 34);
-    --background-tertiary: transparent;
-    --deprecated-text-input-bg: rgb(7, 10, 16);
-}
-
-.theme-dark {
-    --text-positive: hsl(139, calc(var(--saturation-factor, 1)*66.8%), 58.6%);
-    --text-warning: hsl(38, calc(var(--saturation-factor, 1)*95.7%), 54.1%);
-    --text-danger: hsl(359, calc(var(--saturation-factor, 1)*82.6%), 59.4%);
-    --info-positive-text: #fff;
-    --info-warning-text: #fff;
-    --info-danger-text: #fff;
-    --info-help-background: hsla(197, calc(var(--saturation-factor, 1)*100%), 47.8%, 0.1);
-    --info-help-foreground: hsl(197, calc(var(--saturation-factor, 1)*100%), 47.8%);
-    --info-help-text: #fff;
-    --status-warning-text: #000;
-    --scrollbar-thin-thumb: rgb(22, 27, 34);
-    --scrollbar-thin-track: transparent;
-    --scrollbar-auto-thumb: rgb(22, 27, 34);
-    --scrollbar-auto-track: rgba(17, 19, 24, 0.308);
-    --scrollbar-auto-scrollbar-color-thumb: rgb(22, 27, 34);
-    --scrollbar-auto-scrollbar-color-track: rgba(17, 19, 24, 0.308);
-    --elevation-stroke: 0 0 0 1px rgba(4, 4, 5, 0.15);
-    --elevation-low: 0 1px 0 rgba(4, 4, 5, 0.2), 0 1.5px 0 rgba(6, 6, 7, 0.05), 0 2px 0 rgba(4, 4, 5, 0.05);
-    --elevation-medium: 0 4px 4px rgba(0, 0, 0, 0.16);
-    --elevation-high: 0 8px 16px rgba(0, 0, 0, 0.24);
-    --logo-primary: rgb(240, 246, 252);
-    --control-brand-foreground: hsl(227, calc(var(--saturation-factor, 1)*57.9%), 77.6%);
-    --control-brand-foreground-new: hsl(235, calc(var(--saturation-factor, 1)*86.1%), 77.5%);
-    --background-mentioned: rgba(13, 17, 23, 0.466);
-    --background-mentioned-hover: rgba(20, 33, 53, 0.233);
-    --background-message-hover: rgba(4, 4, 5, 0.07);
-    --activity-card-background: #202225;
-    --textbox-markdown-syntax: rgb(82, 89, 95);
-}
-
 .resultsGroup-r_nuzN {
     background-color: var(--background-secondary);
     border-radius: var(--border-radius);
