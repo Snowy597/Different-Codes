@@ -7,7 +7,7 @@
 **/
 
 :root {
-    /* --------- BASE THEME --------- */
+    /* --------- BASE THEME CODE --------- */
     --blurple-replace: rgb(255, 0, 242);
     --background-primary: rgb(9, 12, 16);
     --background-secondary: rgb(13, 13, 26);
@@ -36,6 +36,9 @@
     --text-link: rgb(11, 213, 240);
     --text-normal: rgb(255, 7, 172);
     --text-muted: rgb(139, 148, 158);
+
+    /* --------- OLD/DEPRECATED DISCORD DEFAULT THEME CODE --------- */
+
     --deprecated-panel-background: #2a2f29;
     --deprecated-card-bg: var(--background-secondary);
     --deprecated-card-editable-bg: var(--background-secondary);
@@ -47,6 +50,9 @@
     --deprecated-text-input-border-hover: #292929;
     --deprecated-text-input-border-disabled: #202225;
     --deprecated-text-input-prefix: #dcddde;
+
+    /* --------- MISC CODE --------- */
+
     --background-accent-1: rgb(15, 15, 15, 0.1);
     --background-accent-3: rgb(15, 15, 15, 0.3);
     --background-floating-2: rgba(0, 0, 0, 0.2);
